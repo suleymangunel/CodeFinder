@@ -1,0 +1,10 @@
+MIDlet-1: Hesapla,/Images/OMTP.png,pckHesap.Hesapla
+MIDlet-Description: Bu Program, OMTP (Otel M��teri Takip Program�) i�in gereken kay�t kodunu �retir.
+MIDlet-Info-URL: http://suleymangunel.tripod.com
+MIDlet-Jar-Size: 6330
+MIDlet-Jar-URL: CodeFinder.jar
+MIDlet-Name: OMTP Kod ��z�c�
+MIDlet-Vendor: S�leyman G�nel
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
